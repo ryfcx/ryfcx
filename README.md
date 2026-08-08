@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=150&section=header&text=ryfcx&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=web%20/%20software%20/%20games%20/%20AI&descAlignY=72&descSize=14&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=150&section=header&text=ryfcx&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=58" width="100%"/>
 
 <a href="https://github.com/ryfcx">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=building+websites%2C+apps%2C+games+%26+AI;shipping+Newzyx+%E2%86%92+AI+news+podcasts+for+kids;Swift+%2F+Python+%2F+C%2B%2B+%2F+AWS" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=building+websites%2C+apps%2C+games+%26+AI;shipping+Newzyx+%E2%86%92+AI+news+podcasts+for+kids" alt="typing" />
 </a>
 
 </div>
@@ -24,9 +24,7 @@ automatically through AWS.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,python,cpp,html,css&theme=dark" alt="languages" />
-
-<img src="https://skillicons.dev/icons?i=aws,openai,sqlite,githubactions,git,xcode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=swift,python,cpp,html,css,apple,aws,sqlite,githubactions,git&theme=dark&perline=10" alt="stack" />
 
 </div>
 
@@ -41,17 +39,6 @@ automatically through AWS.
 | [**newzyxIOS**](https://github.com/ryfcx/newzyxIOS) | Newzyx companion app · `Swift` |
 | [**taskly**](https://github.com/ryfcx/taskly) | gamified task manager · `Swift` |
 | [**hackPackLabelRacer**](https://github.com/ryfcx/hackPackLabelRacer) | a game running on a label maker · `C++` |
-
-<br>
-
-### stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=ryfcx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="stats" />
-<img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=ryfcx&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" alt="top languages" />
-
-</div>
 
 <br>
 
