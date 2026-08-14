@@ -40,13 +40,33 @@ automatically through AWS.
 
 ### work
 
-| | | |
-|:--|:--|:--|
-| `01` | **[newzyx](https://github.com/ryfcx/newzyx)** — AI news podcast pipeline for kids | <sub>python · openai · elevenlabs</sub> |
-| `02` | **[newzyxServer](https://github.com/ryfcx/newzyxServer)** — the 24/7 server build | <sub>python · aws · sqlite</sub> |
-| `03` | **[newzyxIOS](https://github.com/ryfcx/newzyxIOS)** — companion app | <sub>swift · swiftui</sub> |
-| `04` | **[taskly](https://github.com/ryfcx/taskly)** — gamified task manager | <sub>swift · swiftui</sub> |
-| `05` | **[hackPackLabelRacer](https://github.com/ryfcx/hackPackLabelRacer)** — a game running on a label maker | <sub>c++ · embedded</sub> |
+<table>
+<tr>
+  <td><code>01</code></td>
+  <td><b><a href="https://github.com/ryfcx/newzyx">newzyx</a></b> — AI news podcast pipeline for kids</td>
+  <td><sub>python · openai · elevenlabs</sub></td>
+</tr>
+<tr>
+  <td><code>02</code></td>
+  <td><b><a href="https://github.com/ryfcx/newzyxServer">newzyxServer</a></b> — the 24/7 server build</td>
+  <td><sub>python · aws · sqlite</sub></td>
+</tr>
+<tr>
+  <td><code>03</code></td>
+  <td><b><a href="https://github.com/ryfcx/newzyxIOS">newzyxIOS</a></b> — companion app</td>
+  <td><sub>swift · swiftui</sub></td>
+</tr>
+<tr>
+  <td><code>04</code></td>
+  <td><b><a href="https://github.com/ryfcx/taskly">taskly</a></b> — gamified task manager</td>
+  <td><sub>swift · swiftui</sub></td>
+</tr>
+<tr>
+  <td><code>05</code></td>
+  <td><b><a href="https://github.com/ryfcx/hackPackLabelRacer">hackPackLabelRacer</a></b> — a game running on a label maker</td>
+  <td><sub>c++ · embedded</sub></td>
+</tr>
+</table>
 
 <br>
 
