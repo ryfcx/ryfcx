@@ -24,7 +24,16 @@ automatically through AWS.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,python,cpp,html,css,apple,aws,sqlite,githubactions,git&theme=dark&perline=10" alt="stack" />
+<a href="https://www.swift.org" title="Swift"><img height="48" src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" /></a>
+<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+<a href="https://isocpp.org" title="C++"><img height="48" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img height="48" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img height="48" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+<a href="https://developer.apple.com" title="Apple / Xcode"><img height="48" src="https://skillicons.dev/icons?i=apple&theme=dark" alt="Apple" /></a>
+<a href="https://aws.amazon.com" title="AWS"><img height="48" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" /></a>
+<a href="https://www.sqlite.org" title="SQLite"><img height="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" /></a>
+<a href="https://github.com/features/actions" title="GitHub Actions"><img height="48" src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" /></a>
+<a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
 
 </div>
 
