@@ -4,12 +4,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg" alt="ryfcx" width="240">
+  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg" alt="Ryan" width="260">
 </picture>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
 
 <br><br>
 
@@ -26,8 +22,9 @@
 
 <br><br>
 
-<a href="https://x.com/ryfcx"><img src="https://img.shields.io/twitter/follow/ryfcx.svg?style=social" alt="Twitter Follow" /></a>
+<a href="https://x.com/rygup"><img src="https://img.shields.io/twitter/follow/rygup.svg?style=social" alt="Twitter Follow" /></a>
 <a href="https://github.com/ryfcx"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=ryfcx&label=Profile%20Views&color=181818&style=flat-square" alt="Profile Views" />
 
 <br><br>
 

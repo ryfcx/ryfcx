@@ -1,12 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 90" width="300" height="90" role="img" aria-label="ryfcx">
-  <style>
-    @font-face {
-      font-family: "Roboto Mono Sub";
-      src: url(data:font/woff2;base64,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) format("woff2");
-    }
-    .wm { font-family: "Roboto Mono Sub", ui-monospace, "Roboto Mono", SFMono-Regular, Menlo, Consolas, monospace;
-          font-size: 48px; font-weight: 500; fill: #1f2328; }
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="320" height="100" role="img" aria-label="Ryan">
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Roboto Mono Sub";
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAP0AA4AAAAABwQAAAOfAAMAQgAAAAAAAAAAAAAAAAAAAAAAAAAAHDYGYD9TVEFURABMEQgKhCCDQgE2AiQDDAsMAAQgBYQKByAMBxumBVFUMD4Bfh7YxtSHirAEJjGG6LGMxpybOuuKcKUFbxY/ZKpPERRrZc/CA7F79wFULKk8ggNShEIlwjG4RD2RDpBkmdzVmu5NXiVso4BIIRb1E27mflMwIs5VqQ7IzTyCPon+V+uH/fNn0x0XTWR7OPEhnxceV1HpZp03SJHFXyjgr1GaWICcuiOiSnqx+U3eRqDMkB5hzbrjGyR3/nIHcnu5akPukEge5AhQAIAsG0veyMlv5FwgumcvnbInMcVS6oBh/YbLBlJe/Jbs+DdHyY5kEAjIluft6MGEUCJBwyAGsB7faxDD/iOiw6qFTA0GUZm8QSokUQMQIEGKBlwrfcFSoMz/ZGIzkedX3cr6aeG+CjmS7p6FYH5gNchBGYpwC+8BGSCRCNFYzdvQ03HcjMSBkb3Vb/fizPzH/G5ZxcnKPNLya3PlgTk4PVtqng3WVgLvzbP0zPx5fLfs6uxxdFvlmfuDTSNp2PAQgJgdnZ47je3U18P3hPrWmAoqdBMXaRs7gRFdTE17SEjyh6mrt5FQim+O0e1phyd3ABlKfmZXc9Px3y9cv06vi2iTtCc2tscWhGysrWuKHKCdX09fv4yYOIuo3TPjToZBxoLCrz9orkCBTh2s6qxYJc0rwzvFH3Avbycgv55fEzQgemCm1BdkJ1QpurSklgC0CTHkcTz01rfIpJ6e1rNZutTzlrYKB8ngkqChc74wdxTxY32CacWL/PsZ72WYZRINZfl8CQkT2bS49DDFxYbslbf+t9JVirGLk9CMzs4Y4UukDnbnr63JYQGeeMAdLOUMSQx6diXMujpiTfFc3EJf3moIVhybprgH1WMXhgp6zg++bu1Avvp6fjN8Su3jBW9B9E4kLu+/7MTVyGK+PXB4ePQU6JIYFFvmAg1AILXqY67pqVn1yr8l5SXg3Y9EA/C5huL7D34uj5IdmFIJCP5sko0xBKMPBPNLkY3hnMOeFmLIXZc7ReATaQflrq7mslI8oUNo8geJEsOQWugfMj0Bg1xb0MpFukJcEVTElpNKX2lUY+wB3DWCccwCuvvFmXQGktLR0taX8sagSnmBJIiglBPkFTxXHLKoZCRl5oEYEOdLKTEQcuebaGrSmSzUg6RBhlwEhZDOodIiSMTXtGKHbrulfCP0HHIouhpaKsZTGxd7vzHNVovq53bTaHGKD6oq30RPUnH28d18Ut8WvUNEDpPsRRMpfi0AFKIw3Rfxf2FZCg==) format("woff2");
+      }
+      .wm { font-family: "Roboto Mono Sub", ui-monospace, "Roboto Mono", SFMono-Regular, Menlo, Consolas, monospace;
+            font-size: 56px; font-weight: 700; letter-spacing: 2px; fill: url(#neon); }
+    </style>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d6009c"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <text class="wm" x="150" y="58" text-anchor="middle" textLength="220" lengthAdjust="spacing">ryfcx</text>
+  <text class="wm" x="160" y="66" text-anchor="middle" textLength="230" lengthAdjust="spacing" filter="url(#glow)" opacity="0.3">Ryan</text>
+  <text class="wm" x="160" y="66" text-anchor="middle" textLength="230" lengthAdjust="spacing">Ryan</text>
 </svg>
