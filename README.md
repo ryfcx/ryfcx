@@ -3,8 +3,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg" alt="Ryan" width="260">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg?v=3">
+  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg?v=3" alt="Ryan" width="260">
 </picture>
 
 <br><br>
