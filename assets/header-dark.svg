@@ -9,9 +9,9 @@
             font-size: 56px; font-weight: 700; letter-spacing: 2px; fill: url(#neon); }
     </style>
     <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#f472ff"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#38bdf8"/>
+      <stop offset="0%" stop-color="#e2141f"/>
+      <stop offset="50%" stop-color="#f5c518"/>
+      <stop offset="100%" stop-color="#5ef1fb"/>
     </linearGradient>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="6" result="blur"/>
