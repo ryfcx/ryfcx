@@ -4,10 +4,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg" alt="ryfcx" width="360">
+  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/main/assets/header-light.svg" alt="ryfcx" width="240">
 </picture>
 
-<br><br><br>
+<br><br>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+
+<br><br>
 
 <a href="https://www.swift.org" title="Swift"><img height="40" src="https://skillicons.dev/icons?i=swift&theme=dark" alt="Swift" /></a>
 <a href="https://www.python.org" title="Python"><img height="40" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
@@ -19,6 +23,18 @@
 <a href="https://www.sqlite.org" title="SQLite"><img height="40" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" /></a>
 <a href="https://github.com/features/actions" title="GitHub Actions"><img height="40" src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" /></a>
 <a href="https://git-scm.com" title="Git"><img height="40" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+
+<br><br>
+
+<a href="https://x.com/ryfcx"><img src="https://img.shields.io/twitter/follow/ryfcx.svg?style=social" alt="Twitter Follow" /></a>
+<a href="https://github.com/ryfcx"><img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryfcx/ryfcx/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ryfcx/ryfcx/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</picture>
 
 <br><br>
 
