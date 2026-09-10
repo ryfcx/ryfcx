@@ -19,6 +19,7 @@
 <a href="https://www.sqlite.org" title="SQLite"><img height="40" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" /></a>
 <a href="https://github.com/features/actions" title="GitHub Actions"><img height="40" src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" /></a>
 <a href="https://git-scm.com" title="Git"><img height="40" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+<a href="https://www.docker.com" title="Docker"><img height="40" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
 
 <br><br>
 
